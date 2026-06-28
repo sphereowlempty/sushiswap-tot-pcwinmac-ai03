@@ -1,4 +1,4 @@
-# 
+# VIP SushiSwap交易机器人 插件 for Mac OS | 终极 SushiSwap交易机器人 插件 for PC Windows. Featuring 动量分析 and DEX流动性池 — optimized for maximum performance.
 
 
 
